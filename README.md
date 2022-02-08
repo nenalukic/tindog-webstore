@@ -5,4 +5,4 @@ It contains interesting features like testimonials, pricing, navigation bar and 
 
 ## Usage
 
-Click here to run the website.
+Click [here](https://nenalukic.github.io/tindog-webstore/) to run the website.
