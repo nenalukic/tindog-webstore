@@ -6,3 +6,7 @@ It contains interesting features like testimonials, pricing, navigation bar and 
 ## Usage
 
 Click [here](https://nenalukic.github.io/tindog-webstore/) to run the website.
+
+## Acknowledgment
+
+I created this project while studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
